@@ -1,2 +1,3 @@
 # Tic-tac-toe
-c++
+
+It's made on C++ language.
